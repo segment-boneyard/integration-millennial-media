@@ -1,0 +1,36 @@
+{
+  "name": "integration-millennial-media",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Millennial Media server-side integration",
+  "author": "Segment <friends@segment.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/segmentio/integration-millennial-media"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "batch": "^0.5.1",
+    "debug": "^2.1.0",
+    "obj-case": "^0.1.1",
+    "segmentio-integration": "^2.3.3"
+  },
+  "devDependencies": {
+    "extend": "^2.0.0",
+    "istanbul": "^0.3.0",
+    "jscs": "^1.6.2",
+    "make-lint": "~1.0.1",
+    "merge-util": "^0.1.0",
+    "mocha": "*",
+    "segmentio-facade": "^2.0.2",
+    "segmentio-integration-tester": "^1.0.5",
+    "should": "^4.1.0",
+    "uid": "0.0.2"
+  },
+  "publishConfig": {
+    "registry": "https://segmentio.registry.nodejitsu.com"
+  }
+}
