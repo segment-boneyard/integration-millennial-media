@@ -1,1 +1,2 @@
+[![Build Status](https://circleci.com/gh/segmentio/integration-millennial-media.png?circle-token=53642577413956e12677563d810d48e4832f685f)](https://circleci.com/gh/segmentio/integration-millennial-media)
 # Millennial Media server-side integration
