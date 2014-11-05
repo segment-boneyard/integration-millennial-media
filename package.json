@@ -22,7 +22,6 @@
     "extend": "^2.0.0",
     "istanbul": "^0.3.0",
     "jscs": "^1.6.2",
-    "make-lint": "~1.0.1",
     "merge-util": "^0.1.0",
     "mocha": "*",
     "segmentio-facade": "^2.0.2",
