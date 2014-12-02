@@ -30,8 +30,7 @@ describe("Millennial Media", function() {
       .channels(['server', 'mobile', 'client'])
       .ensure('message.context.referrer.id')
       .ensure('settings.events')
-      .ensure('message.event')
-      .retries(2);
+      .ensure('message.event');
   });
 
   describe('.validate()', function(){
