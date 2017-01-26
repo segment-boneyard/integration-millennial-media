@@ -33,8 +33,5 @@
     "segmentio-integration-tester": "1.x",
     "should": "^4.1.0",
     "uid": "0.0.2"
-  },
-  "publishConfig": {
-    "registry": "https://segmentio.registry.nodejitsu.com"
   }
 }
