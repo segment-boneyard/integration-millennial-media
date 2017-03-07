@@ -1,7 +1,6 @@
 {
-  "name": "integration-millennial-media",
-  "version": "1.2.0",
-  "private": true,
+  "name": "@segment/integration-millennial-media",
+  "version": "1.2.1",
   "description": "Millennial Media server-side integration",
   "author": "Segment <friends@segment.com>",
   "repository": {
